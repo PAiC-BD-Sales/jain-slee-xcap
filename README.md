@@ -1,10 +1,13 @@
 # Extended JAIN SLEE XCAP
 
-The Extended JAIN SLEE XCAP is cloned from JAIN SLEE [https://github.com/RestComm/jain-slee.xcap](https://github.com/RestComm/jain-slee.xcap) from which they have added a set of improvements and new.
+> Extended JAIN SLEE XCAP is a refined iteration derived from the JAIN SLEE project, accessible at  [https://github.com/RestComm/jain-slee.xcap](https://github.com/RestComm/jain-slee.xcap). This enhanced version introduces a variety of improvements and novel features.
 
-## Introduction
-
-Open Source Extended Jain slee allows applications to communicate with legacy communications, providing means to execute statements in asynchronous fashion. Statements are executed in the RA runtime resources, freeing the JAIN SLEE Event Router from the burden of having its executors (threads) resources blocked by interactions with Datasources, and results are provided to applications through JAIN SLEE events. The JAIN SLEE application is also completely free from having to manage connection closings.
+## Key Features
+* Enables applications to establish communication with legacy communication systems.
+* Facilitates the execution of statements in an asynchronous manner, enhancing overall system efficiency.
+* Relieves the JAIN SLEE Event Router from resource-blocking interactions with Datasources.
+* Transmits results to applications seamlessly via JAIN SLEE events.
+* Eliminates the necessity for JAIN SLEE applications to manage connection closures, simplifying development and operational processes.
 
 ## Build Extended JAIN SLEE XCAP
 
