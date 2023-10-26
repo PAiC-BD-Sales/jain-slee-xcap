@@ -25,7 +25,7 @@ Git is used to manage Restcomm JAIN SLEE source code.
 
 ## What is coming?
 
-For details on our planned features and future direction please refer to PAiC Business Development(https://paicbd.com/).
+To find information about our planned features and our future roadmap, kindly visit PAiC at https://paicbd.com/.
 
 ## News
 
